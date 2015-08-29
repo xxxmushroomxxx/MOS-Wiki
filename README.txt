@@ -1,6 +1,6 @@
 # MOS-Wiki  
 This has everything you need to know about mods made by MOS
- wikki Version: 00.00.0.0008
+ wikki Version: 00.00.0.0009 [The Small Step]
  
  [Fixes]
  *fixed text bugs
@@ -8,9 +8,10 @@ This has everything you need to know about mods made by MOS
  [Changes]
  *changed font
  *changed size
+ *changed spelling
  
  [Removed]
- -Nothing
- 
+ -Nothing 
+
  [Added]
  +Nothing
