@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Us</title>
+<link rel="icon" href="PHOTOSHOPPED SPLAT MAN(resized).png" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="gallery.css">
+</head>
+<body>
+<center>
+<h2>Gallery</h2>
+<h1>This is where you can find some amazing photos of CEMAST and even have your comment featured, to do so just send us your image or comment to the email found on the "Contact Us" page.
+<table border="0" style="width:25%">
+  <tr>
+    <td style='height: 250px; width: 250px;'> <img src='Blades.jpg' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='Picture of CEMAST.jpg' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='RAF logo.png' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+  </tr>
+    <tr>
+    <td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+  </tr>
+  <tr>
+    <td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+  </tr>
+  <tr>
+    <td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+  </tr>
+  <tr>
+    <td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+	<td style='height: 250px; width: 250px;'> <img src='' style="height: 250px; width: 250px;" /></td>
+  </tr>
+</table>
+</center>
+</body>
