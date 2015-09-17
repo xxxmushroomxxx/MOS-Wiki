@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<head>
+	<link rel="icon" href="PHOTOSHOPPED SPLAT MAN(resized).png" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="faq.css">
+	<title>FAQ</title>
+</head>
+<center>
+<body>
+	<h2>FAQ</h2>
+
+
+<h1>
+How many students does CEMAST have?</h1> <p>We have around 800 in the year 2014-2015 however, due to the valuable courses we offer, we expect this to increase dramatically over the following few years.
+</p>
+<h1>
+What makes CEMAST different from other technical colleges?</h1><p>It has very hands on teaching and each classroom is equipped with real equipment to practice on, there is a real fighter jet in the aerospace engineering workshop or a vast range of different boat engines in the marine engineering workshop just to name two. In each workshop or classroom there is professional equipment to help prepare you for real live situations adding further to the value of the skills taught at CEMAST.
+</p>
+<h1>
+Are there other ways of getting there than car?</h1>
+<p> There are many ways of travelling to CEMAST, there is a bus route or  you could walk, cycle or land on the airfield!
+</p>
+<h1>
+What are some of the main facilities?</h1>
+<p>At CEMAST we have lots of state of the art facilities. We have 4 workshops with modern equipment. We also have classrooms that have a lot of specialised learning tools. There is a 3D printing zone for students to use, an iLRC (information-learning-resource-centre) and a discounted Starbucks! For more information visit the Facilities Page
+</p>
+<h1>
+What courses can I do?</h1>
+<p>CEMAST offers a wide variety of courses, for more information on what these consist of visit our Courses page.
+</p>
+<h1>
+What are the entry requirements?</h1>
+<p>Entry requirements are different for each course, for more information on this visits our Courses page.
+</p>
+<h1>
+Does CEMAST have links with companies for jobs or internships?</h1>
+<p>Yes, we have many internship opportunities with a wide range of companies including: Nats, BAE Systems and Vector Aerospace. For more information on this see the Our Partners section of the website. 
+</p>
+<h1>
+Is it just practical work?</h1>
+<p>No, we have lots of classrooms where you can get your head round the theory before heading out and doing it for real!
+</p>
+<h1>
+When was the college opened?</h1>
+<p>CEMAST was opened September 2014. £12million was invested into the state of the art, high tech campus with the knowledge that it would be at the cutting edge of technical colleges along the south coast.
+</p>
+<h1>
+What happens on my break times?</h1>
+<p>At break times students are largely free to do as they please, however we have an ILRC along the concourse for students to play around on. In addition to this there is also a cafe area that serves delicious, well priced food and a Starbucks with massively subsidised rates. Not only can students spend their break times inside but they can also spend it outside on our multipurpose area outside.
+</p>
+<h1>
+Where is the college?</h1>
+<p>You can find us next to the Lee-on-Solent airfield. You can find out more about how to travel to us or contact us on our “Contact Us” page.
+</p>
+<h1>
+Are there any current places at the college?</h1>
+<p>Yes, as of the academic year 2014-2015 we have around 800 students however, we are expecting demand to increase dramatically very soon as the college becomes better known. Therefore, if you think you would be interested in studying at CEMAST we urge you to visit our “Apply Now” page where you can order our prospectus or even apply right in your browser.
+</p>
+<h1>
+What are the facilities for practical work?</h1>
+<p>In each of our workrooms we have top of the range machines, and also ones that are found in the common workspace. 
+</p>
+<h1>
+Are the teachers easily accessible?</h1>
+<p>At CEMAST the teachers are always around if you need help with work or you can go and find them in their practical workshops.
+</p>
+<h1>
+Do they share any facilities with Fareham College?</h1>
+<p>No, we do not share any facilities with Fareham College all of the equipment you will need is on site at CEMAST.
+</p>
+<h1>
+What is the Computer Department like?</h1>
+<p>At CEMAST we have a whole room filled with computers for you to go and study in the quiet. Also we have a more casual computer area for you to hang out with your friends.  
+</p>
+<h1>
+How much does an average lunch cost?</h1>
+<p>We have our very own discounted Starbucks™ on site at CEMAST, which serves everything from coffee to baguettes. 
+</p>
+<h1>
+Is there a uniform?</h1>
+<p>If you come and study with companies such as; Vector aerospace, or Burgess Marine, then you will have to wear a polo top with their logo on it. Also you will have to wear overalls in the workshops. 
+</p>
+<h1>
+Are there social clubs?</h1>
+<p>At CEMAST there are no social clubs formally, but the students form good social bonds in and out of CEMAST.
+</p>
+<h1>
+Do I have to supply my own stationery?</h1>
+<p>You do have to bring your own stationary, but all tools are provided.
+</p>
+<h1>
+Are there any plans for further expansion?</h1>
+<p>We are currently building another building to the rear of the main college, we are moving some courses into here.
+
+</p>
+</body>
+</center>
