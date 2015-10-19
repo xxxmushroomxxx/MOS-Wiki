@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css.css">
+<link rel="stylesheet" type="text/css" href="Menu Theme.css">
+<title>CEMAST Home Page</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="icon" href="PHOTOSHOPPED SPLAT MAN(resized).png" type="image/x-icon">
+</head>
+<body>
+<div id="menu">
+<div class="home">
+<center><h2><span id="C">C</span><span id="E">E</span><span id="M">M</span><span id="A">A</span><span id="S">S</span><span id="T">T</span></h2></center>
+</div>
+<div id="nav2">
+<div id="anchor1"><center><p style="color: #ff6f0e;">Cemast is always looking for conscientious new students. Click below to find out more about us through our social media:</p></center></div>
+</div>
+<div id="active"><img src="PHOTOSHOPPED SPLAT MAN(resized).png" style="height: 8em; width: 8em;"></div>
+<div id="nav1">
+<div id="page1" style="font-family: 'AgendaLight';"><a href="Your College 2">Your College</a></div>
+<div id="page2" style="font-family: 'AgendaLight';"><a href="facilities.html">Facilities</a></div>
+<div id="page3" style="font-family: 'AgendaLight';"><a href="Courses.html">Courses</a></div>
+<div id="page4" style="font-family: 'AgendaLight';"><a href="ourpartners.html">Our Partners</a></div>
+<div id="page5" style="font-family: 'AgendaLight';"><a href="gallery.html">Gallery</a></div>
+<div id="page6" style="font-family: 'AgendaLight';"><a href="FAQ.html">FAQ</a></div>
+<div id="page7" style="font-family: 'AgendaLight';"><a href="Contact Us.html">Contact Us</a></div>
+</div>
+</div>
+<script src="jquery-2.1.3.js"></script>
+<script src="Menu Animation.js"></script>
+</body>
+</html>

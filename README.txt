@@ -1,17 +1,15 @@
 # MOS-Wiki  
 This has everything you need to know about mods made by MOS
- wikki Version: 00.00.0.0009 [The Small Step]
+ wikki Version: 00.00.0.00100 [The Big Leap]
  
  [Fixes]
- *fixed text bugs
+ *Nothing
  
  [Changes]
- *changed font
- *changed size
- *changed spelling
+ *Nothing
  
  [Removed]
  -Nothing 
 
  [Added]
- +Nothing
+ +A whole new page
